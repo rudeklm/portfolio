@@ -41,6 +41,51 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 <p>I am a Business Analytics student at Miami University with experience in market research, competitive intelligence, digital marketing, and database coursework. I use tools including Python, SQL, Power BI, Excel, and HubSpot, and I am interested in data analysis and markets.This past summer I was a Financial Services Intern at Nationwide and will be returning post-grad as a Senior Analyst in the Investment Management Group.</p>
 </section>
 <section>
+<h2>Education</h2>
+<p>
+<strong>Miami University, Farmer School of Business</strong>, Major in Business Analytics <span class="meta">Expected Graduation December 2026</span>
+</p>
+</section>
+<section>
+<h2>Experience</h2>
+<article>
+<h3>Intern, Nationwide Financial Services</h3>
+<p class="meta">May 2026 – Present</p>
+<ul>
+<li>I built a centralized competitive intelligence database resource to support Nationwide Financial&#39;s Life organization.</li>
+<li>I conducted market and industry analysis to identify competitor trends and strategic insights.</li>
+<li>I participated in networking and volunteer initiatives supporting professional and community engagement.</li>
+</ul>
+</article>
+<article>
+<h3>Intern, American Women’s Club of Luxembourg</h3>
+<p class="meta">August 2025 – December 2025</p>
+<ul>
+<li>I supported cross-cultural events and fundraising initiatives for community engagement and international outreach.</li>
+<li>I created digital marketing content and communications to promote programs and increase visibility for the Gifts for Kids campaign.</li>
+<li>I conducted market research and worked with leadership to improve member participation and event strategy.</li>
+</ul>
+</article>
+<article>
+<h3>Coach, Ohio Elite Lacrosse</h3>
+<p class="meta">June 2025 – Present</p>
+<ul>
+<li>I coach and mentor high school athletes in a competitive travel lacrosse program.</li>
+<li>I organize team practices and coordinate game-day and tournament logistics.</li>
+<li>I promote teamwork and leadership among athletes while fostering a positive team dynamic.</li>
+</ul>
+</article>
+<article>
+<h3>Intern, GradLeaders</h3>
+<p class="meta">July 2024 – August 2025</p>
+<ul>
+<li>I researched and created AI-generated marketing videos for email campaigns.</li>
+<li>I contributed recommendations for user-focused interface improvements based on testing and research.</li>
+<li>I prospected leads using LinkedIn and CRM tools and authored a blog post to support brand presence.</li>
+</ul>
+</article>
+</section>
+<section>
 <h2>Skills</h2>
 <h3>Data &amp; Analytics Tools</h3>
 <ul class="chips">
@@ -106,51 +151,6 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 <li>
 <strong>ISA 381 - Concepts in Business Programming</strong>: This course supports my programming background alongside my use of Python.</li>
 </ul>
-</section>
-<section>
-<h2>Experience</h2>
-<article>
-<h3>Intern, Nationwide Financial Services</h3>
-<p class="meta">May 2026 – Present</p>
-<ul>
-<li>I built a centralized competitive intelligence database resource to support Nationwide Financial&#39;s Life organization.</li>
-<li>I conducted market and industry analysis to identify competitor trends and strategic insights.</li>
-<li>I participated in networking and volunteer initiatives supporting professional and community engagement.</li>
-</ul>
-</article>
-<article>
-<h3>Intern, American Women’s Club of Luxembourg</h3>
-<p class="meta">August 2025 – December 2025</p>
-<ul>
-<li>I supported cross-cultural events and fundraising initiatives for community engagement and international outreach.</li>
-<li>I created digital marketing content and communications to promote programs and increase visibility for the Gifts for Kids campaign.</li>
-<li>I conducted market research and worked with leadership to improve member participation and event strategy.</li>
-</ul>
-</article>
-<article>
-<h3>Coach, Ohio Elite Lacrosse</h3>
-<p class="meta">June 2025 – Present</p>
-<ul>
-<li>I coach and mentor high school athletes in a competitive travel lacrosse program.</li>
-<li>I organize team practices and coordinate game-day and tournament logistics.</li>
-<li>I promote teamwork and leadership among athletes while fostering a positive team dynamic.</li>
-</ul>
-</article>
-<article>
-<h3>Intern, GradLeaders</h3>
-<p class="meta">July 2024 – August 2025</p>
-<ul>
-<li>I researched and created AI-generated marketing videos for email campaigns.</li>
-<li>I contributed recommendations for user-focused interface improvements based on testing and research.</li>
-<li>I prospected leads using LinkedIn and CRM tools and authored a blog post to support brand presence.</li>
-</ul>
-</article>
-</section>
-<section>
-<h2>Education</h2>
-<p>
-<strong>Miami University, Farmer School of Business</strong>, Major in Business Analytics <span class="meta">Expected Graduation December 2026</span>
-</p>
 </section>
 </main>
 </body>
